@@ -1,4 +1,5 @@
-# Motivation
+# Open Science in the Pharmaceutical Industry: Analysis and Recommendations
+
 Have you ever wondered why newly developed drugs are often so expensive? While in my master's degree, I researched the link between high drug prices and the tendency of pharma companies to keep their data proprietary.
 
 I have long been fascinated by the pharmaceutical industry for their break-through innovations and have often heard criticisms about Big Pharma for their secrecy and high prices. I feel this project helped me become more informed of the intricacies of the data governance practices in the industry. Many players in Pharma in fact acknowledge that public distrust and affordability are pressing issues, but more can be done by the companies themselves and regulators to address these.
